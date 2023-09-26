@@ -78,6 +78,7 @@ section{
 }
 
 .desc{
+    border-radius: 10rem;
     position: absolute;
     background-color: white;
     padding: 0.5rem 2.5rem;
